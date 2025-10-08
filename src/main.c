@@ -4,3 +4,4 @@ a beep that really beeps - cross-platform command line tool to toot "tooot" - it
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // guard against empty input
+// drop an unused branch
