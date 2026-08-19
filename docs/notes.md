@@ -55,3 +55,4 @@ Notes and usage details for toot.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
